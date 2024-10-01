@@ -9,7 +9,7 @@ public class Main {
 
   public static void main(String []args)
   {
-  Product p = new Product;
+  Product p = new Product();
   p.product(1,1);
   p.product(1,1,1);
   p.product(11.02,1.33);
